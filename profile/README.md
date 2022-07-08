@@ -1,3 +1,3 @@
 Copy-Stat
 
-[NEWS](copy-stat.github.io)
+[NEWS](https://copy-stat.github.io/)
